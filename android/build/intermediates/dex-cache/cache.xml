@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.21.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="771892705d7958ec5a294a103a0e52e7f8d0bdc0">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/classes-bb753f7cde3182cbb2cefec8a7467263e8105294.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/classes-f1163e25112026af6b703065958adbb7d7c541f3.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0-f8e0c9dbce85383b97f25992860110127afde712.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/classes-1c89869558aa8e211303d358b355183a084ab929.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.21.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ed5dc2d162c6a24aeaeb765bca63e2ee5171f8e">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-deb62bab050b76fb260684cdadd856e508057536.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/classes-eda415b2ee8d565f1acbe35349623324a1851b71.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-0caeecfc24a2c1fd0936c1cb8678fdda7db7e083.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp/1.2.0/6c5c9380e245c4ff5be2b2a49dcbb0200c39798e/stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/stetho-okhttp-1.2.0-eb6bd5f603199411acc4cc712654a63c90010f5a.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.2.0/1d6cdb8ce8185b8b23213fad48a83987fb6d2d67/stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/stetho-1.2.0-bebfda753865a0325e0a33610efe44253c4c1b92.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/commons-cli-1.2-ef3e8bef45506192ffc1b926155198d9f19e1478.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/classes-f09e06badadf7a976628e711d8274df9310803ec.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/classes-06fb33610f7a5724e89e5bdc8d1f1056796449b4.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/classes-5a03d4d354a0641d01e7c6f67da821722be13f60.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/classes-80ac8d2cd8cbcdb40af18e68f4202ceda0e07103.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0-57b2aeddffb04338e3e3d8aa49e8dc3818decd50.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-f454623a70f0a5c6c344c5a283e95d5cc0910100.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-12dece32fb43da4cf41bb685a8efda931998c2a3.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-8da5d57d5c1c2c58c40194ed18b3f8c06bc58729.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-b2b84c699e5a49cad8c1751c16a3b59336351a35.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-da584c657c649df88be2ecf2d779c9e66f2c6d13.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/classes-5b5782b7598c04dfd25e82da2979b081e0b67c03.jar" />
+    </item>
+    <item
+        jar="/home/gagapov/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-3192cab894881960c50d156378953e3bc596a0d8.jar" />
+    </item>
+
+</items>
