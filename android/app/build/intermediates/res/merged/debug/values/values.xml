@@ -221,7 +221,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <!-- From: file:/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="app_name">rnwsk</string>
+    <string name="app_name">App</string>
     <!-- From: file:/home/gagapov/Projects/react-native-webpack-starter-kit/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.21.0/res/values/values.xml -->
     <eat-comment/>
     <string name="catalyst_debugjs" project="catalyst" translatable="false">Debug in Chrome</string>
